@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Event Request,500,1011,387,3306,535.25,0.000%,26.12330,15483.21,7.02,606921.8
+TOTAL,500,1011,387,3306,535.25,0.000%,26.12330,15483.21,7.02,606921.8
