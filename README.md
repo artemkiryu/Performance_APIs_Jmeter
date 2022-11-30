@@ -1,4 +1,4 @@
-# REST APIs application performance tests and reports.
+# REST APIs performance tests and reports
 
 TECHNOLOGY
 - Apache Jmeter 5.0
