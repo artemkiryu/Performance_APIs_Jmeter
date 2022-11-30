@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Pro Request,750,1229,1003,2293,2598,3387,407,4893,0.000%,34.37529,15692.74,9.30
+TOTAL,750,1229,1003,2293,2598,3387,407,4893,0.000%,34.37529,15692.74,9.30
